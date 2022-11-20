@@ -61,3 +61,20 @@ h3 {
 p {
   color: var(--dark-color);
 }
+
+@media (max-width: 900px) {
+  h1 {
+    font-size: 40px;
+  }
+  h2 {
+    font-size: 30px;
+  }
+  .header {
+    text-align: center;
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .projects {
+    text-align: center;
+  }
+}
