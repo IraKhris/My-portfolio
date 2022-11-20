@@ -48,6 +48,13 @@ h3 {
   border: none;
   border-radius: 4px;
   padding: 10px 30px 10px 30px;
+  transition: all 200ms ease-in-out;
+}
+
+.about-me:hover,
+.button:hover {
+  background: var(--primary-color);
+  color: var(--secondary-color);
 }
 
 .projects {
