@@ -63,6 +63,7 @@ h3 {
 .about-me:hover,
 .button:hover {
   background: var(--additional-color);
+  color: white;
 }
 
 .projects {
