@@ -106,6 +106,14 @@ p {
   text-align: center;
 }
 
+.contact-link {
+  text-decoration: none;
+  color: var(--dark-color);
+}
+.contact-link:hover {
+  color: var(--additional-color);
+}
+
 @media (max-width: 900px) {
   h1 {
     font-size: 40px;
