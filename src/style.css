@@ -206,7 +206,8 @@ footer .icons a:hover {
     font-size: 14px;
     margin-top: 0;
   }
-  .photo {
+  .photo,
+  .screenshot {
     max-width: 340px;
   }
 }
