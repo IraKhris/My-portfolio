@@ -206,6 +206,9 @@ footer .icons a:hover {
     font-size: 14px;
     margin-top: 0;
   }
+  .photo {
+    max-width: 360px;
+  }
 }
 
 .footer-text {
