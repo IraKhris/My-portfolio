@@ -108,6 +108,7 @@ p {
 }
 .photo {
   padding-top: 70px;
+  padding-left: 30px;
   max-width: 400px;
 }
 
@@ -202,6 +203,11 @@ footer .icons a:hover {
     margin-top: 0;
   }
 }
+
+.footer-text {
+  font-weight: 200;
+}
+
 @media (max-width: 768px) {
   footer .contact-box {
     padding: 40px 40px;
@@ -233,6 +239,7 @@ footer .icons a:hover {
     text-align: center;
   }
   .photo {
-    padding-top: 20px;
+    padding-top: 10px;
+    padding-bottom: 40px;
   }
 }
