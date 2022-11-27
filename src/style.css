@@ -82,6 +82,30 @@ p {
   max-width: 400px;
 }
 
+.work-section {
+  margin-top: 60px;
+}
+
+.work-section h1 {
+  padding-top: 60px;
+  text-align: center;
+  padding-bottom: 40px;
+  font-size: 50px;
+}
+
+.work-section h2 {
+  text-align: center;
+  padding: 30px 0 40px;
+}
+
+.screenshot {
+  max-width: 400px;
+}
+
+.screenshot-section {
+  text-align: center;
+}
+
 @media (max-width: 900px) {
   h1 {
     font-size: 40px;
@@ -96,6 +120,9 @@ p {
   }
   .projects {
     text-align: center;
+  }
+  .work-section h1 {
+    font-size: 36px;
   }
 }
 
